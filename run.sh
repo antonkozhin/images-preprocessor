@@ -1,1 +1,1 @@
-java -jar ./target/images-preprocessor.jar --dir-path=./screenshots --grades="(\"отлично\" \"класс\" \"неплохо\" \"плохо\" \"ужасно\")"
+java -jar ./target/images-preprocessor.jar --dir-path=./screenshots --grades-path=grades.edn
